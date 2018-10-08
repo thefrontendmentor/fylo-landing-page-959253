@@ -1,6 +1,6 @@
 # Frontend Mentor - Fylo landing page with features grid section
 
-![Header/intro section for the Fylo landing page with features grid section](./design/desktop-preview.png)
+![Header/intro section for the Fylo landing page with features grid section](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
 
